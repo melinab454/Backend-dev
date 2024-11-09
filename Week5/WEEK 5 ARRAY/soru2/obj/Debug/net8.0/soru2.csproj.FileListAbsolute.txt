@@ -1,0 +1,4 @@
+C:\Users\eness\OneDrive\Documents\GitHub\home work\week5\soru2\obj\Debug\net8.0\soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eness\OneDrive\Documents\GitHub\home work\week5\soru2\obj\Debug\net8.0\soru2.AssemblyInfoInputs.cache
+C:\Users\eness\OneDrive\Documents\GitHub\home work\week5\soru2\obj\Debug\net8.0\soru2.AssemblyInfo.cs
+C:\Users\eness\OneDrive\Documents\GitHub\home work\week5\soru2\obj\Debug\net8.0\soru2.csproj.CoreCompileInputs.cache

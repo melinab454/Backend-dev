@@ -1,0 +1,23 @@
+@model List<Blog>
+
+
+
+<h1>Blog</h1>
+
+<div class="container">
+    <div class="row">
+        @foreach (var i in Model)
+        {
+            <div class="col-md-3">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="@i.GorselUrl" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@i.Baslik</h5>
+                        <p class="card-text">@i.Ozet</p>
+                        <a href="#" class="btn btn-primary">Detaylar</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

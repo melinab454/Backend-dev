@@ -1,0 +1,4 @@
+C:\Users\90531\Documents\GitHub\Backend ödevler\Week 09\HTML Araştırma ödevi\obj\Debug\net8.0\HTML Araştırma ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90531\Documents\GitHub\Backend ödevler\Week 09\HTML Araştırma ödevi\obj\Debug\net8.0\HTML Araştırma ödevi.AssemblyInfoInputs.cache
+C:\Users\90531\Documents\GitHub\Backend ödevler\Week 09\HTML Araştırma ödevi\obj\Debug\net8.0\HTML Araştırma ödevi.AssemblyInfo.cs
+C:\Users\90531\Documents\GitHub\Backend ödevler\Week 09\HTML Araştırma ödevi\obj\Debug\net8.0\HTML Araştırma ödevi.csproj.CoreCompileInputs.cache

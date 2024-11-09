@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F+IK0cEYj34=",
+  "success": true,
+  "projectFilePath": "C:\\Git\\GitHub\\home work\\week6\\soru9\\soru9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eness\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\eness\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\eness\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+C:\Git\GitHub\home work\Week5Methods\obj\Debug\net8.0\Week5Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GitHub\home work\Week5Methods\obj\Debug\net8.0\Week5Methods.AssemblyInfoInputs.cache
+C:\Git\GitHub\home work\Week5Methods\obj\Debug\net8.0\Week5Methods.AssemblyInfo.cs
+C:\Git\GitHub\home work\Week5Methods\obj\Debug\net8.0\Week5Methods.csproj.CoreCompileInputs.cache

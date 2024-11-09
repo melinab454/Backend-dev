@@ -1,0 +1,14 @@
+C:\Git\GitHub\home work\Week5Methods\soru17\bin\Debug\net8.0\soru17.exe
+C:\Git\GitHub\home work\Week5Methods\soru17\bin\Debug\net8.0\soru17.deps.json
+C:\Git\GitHub\home work\Week5Methods\soru17\bin\Debug\net8.0\soru17.runtimeconfig.json
+C:\Git\GitHub\home work\Week5Methods\soru17\bin\Debug\net8.0\soru17.dll
+C:\Git\GitHub\home work\Week5Methods\soru17\bin\Debug\net8.0\soru17.pdb
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\soru17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\soru17.AssemblyInfoInputs.cache
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\soru17.AssemblyInfo.cs
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\soru17.csproj.CoreCompileInputs.cache
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\soru17.dll
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\refint\soru17.dll
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\soru17.pdb
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\soru17.genruntimeconfig.cache
+C:\Git\GitHub\home work\Week5Methods\soru17\obj\Debug\net8.0\ref\soru17.dll

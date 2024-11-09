@@ -1,0 +1,14 @@
+C:\Git\GitHub\home work\week5\soru9\bin\Debug\net8.0\soru9.exe
+C:\Git\GitHub\home work\week5\soru9\bin\Debug\net8.0\soru9.deps.json
+C:\Git\GitHub\home work\week5\soru9\bin\Debug\net8.0\soru9.runtimeconfig.json
+C:\Git\GitHub\home work\week5\soru9\bin\Debug\net8.0\soru9.dll
+C:\Git\GitHub\home work\week5\soru9\bin\Debug\net8.0\soru9.pdb
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\soru9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\soru9.AssemblyInfoInputs.cache
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\soru9.AssemblyInfo.cs
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\soru9.csproj.CoreCompileInputs.cache
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\soru9.dll
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\refint\soru9.dll
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\soru9.pdb
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\soru9.genruntimeconfig.cache
+C:\Git\GitHub\home work\week5\soru9\obj\Debug\net8.0\ref\soru9.dll
